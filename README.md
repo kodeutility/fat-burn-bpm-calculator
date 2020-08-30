@@ -8,7 +8,7 @@ This project works very well with Windows OS. It is NOT tested on linux and mac 
 
 ## Calculation of bpm
 
-- The application takes age as input and calculates maximum heart rate and fat burning heart rate.
+- The application takes age as input and calculates maximum heart rate and fat burning heart rate in unit **bpm** (beats per minute).
 - Maximum heart rate is calculated using (206.9 - (0.67 * age))
 - Target fat burning heart rate is calculated using (0.65 * maximum heart rate)
 - Formulae are taken from **Med Sci Sports Exerc.** as mentioned in **"Data Structures and Algorithms in Python"** by 
