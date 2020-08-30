@@ -2,7 +2,7 @@
 
 Project is created using Python, Qt Designer and PyQt5. 
 I hope it helps everyone who is starting out in the Python world by building a simple GUI application. 
-This project works very well with Windows OS. It is not tested on linux and mac OS.
+This project works very well with Windows OS. It is NOT tested on linux and mac OS.
 
 ![app UI screenshot](images/app_ui.PNG)
 
@@ -15,7 +15,7 @@ This project works very well with Windows OS. It is not tested on linux and mac 
 *Michael T. Goodrich*, *Roberto Tamassia* and *Michael H. Goldwasser*
 
 ##Download and Installation
-Please [watch the video](https://www.youtube.com/) to download and install the application on windows OS.
+Please [watch the video](https://www.youtube.com/watch?v=sNI49tKbIMA) to download and install the application on windows OS.
 
 ## Credits
 <div>
